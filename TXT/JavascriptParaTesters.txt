@@ -1,0 +1,17 @@
+Javascript para Testes
+
+NODE 
+  - Ferramenta utilizada para realizar aplicações com Javascript.
+  - Podemos criar um arquivo .js e trabalhar com comandos Javascript nele.
+  - Para rodar, utilizamos o comando "node nome_do_arquivo.js".
+
+- Arquivo "variáveis.js";
+- Arquivo "arrays.js";
+- Arquivo "decisao.js";
+- Arquivo "repeticao.js";
+- Exercícios;
+- funções.js;
+- 
+
+
+ATENÇÃO: O Javascript não solicita que declaremos o tipo de variável (se é INT, BOOL, FLOAT, etc.). Portanto, tomem cuidado!
